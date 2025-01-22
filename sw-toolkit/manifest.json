@@ -1,0 +1,5 @@
+{
+  "permissions": [ "activeTab" ],
+  "name": "https://magicvla.github.io",
+  "display": "standalone"
+}
